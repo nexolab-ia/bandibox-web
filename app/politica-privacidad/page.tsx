@@ -14,7 +14,7 @@ export default function PoliticaPrivacidad() {
         <div>
           <h2>Nuestro compromiso</h2>
           <p>
-            En <span className="legal-strong">Bandibox SpA</span> valoramos la privacidad de nuestros
+            En <span className="legal-strong">BANDIBOX SOLUCIONES INTEGRALES SpA</span> valoramos la privacidad de nuestros
             usuarios, clientes y visitantes. Esta política describe cómo recopilamos, usamos,
             almacenamos y protegemos la información personal en relación con nuestros servicios de
             automatización, mensajería y asistencia técnica, a través de plataformas como WhatsApp
@@ -28,7 +28,7 @@ export default function PoliticaPrivacidad() {
         <div>
           <h2>Responsable del tratamiento</h2>
           <p>
-            El responsable es <span className="legal-strong">Bandibox SpA</span>, RUT{" "}
+            El responsable es <span className="legal-strong">BANDIBOX SOLUCIONES INTEGRALES SpA</span>, RUT{" "}
             <span className="legal-strong">77.314.231-9</span>, con domicilio en{" "}
             <span className="legal-strong">Melgarejo 849, Depto 849-G, Coquimbo, Chile</span>.
             Contacto: <a href="mailto:hola@bandibox.cc">hola@bandibox.cc</a> ·{" "}

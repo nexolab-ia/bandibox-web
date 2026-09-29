@@ -14,7 +14,7 @@ export default function EliminacionDatos() {
         <div>
           <h2>Nuestro compromiso</h2>
           <p>
-            <span className="legal-strong">Bandibox SpA</span> respeta el derecho de usuarios y
+            <span className="legal-strong">BANDIBOX SOLUCIONES INTEGRALES SpA</span> respeta el derecho de usuarios y
             clientes a solicitar la eliminación de sus datos personales y técnicos.
           </p>
         </div>
@@ -52,7 +52,7 @@ export default function EliminacionDatos() {
         <div>
           <h2>Contacto</h2>
           <p>
-            Bandibox SpA · Melgarejo 849, Depto 849-G, Coquimbo, Chile
+            BANDIBOX SOLUCIONES INTEGRALES SpA · Melgarejo 849, Depto 849-G, Coquimbo, Chile
             <br />
             <a href="mailto:hola@bandibox.cc">hola@bandibox.cc</a> ·{" "}
             <a href="tel:+56984973274">+56 9 8497 3274</a>

@@ -15,7 +15,7 @@ export default function CondicionesServicio() {
           <h2>Identificación del prestador</h2>
           <p>
             Estas condiciones regulan el uso de las soluciones de automatización ofrecidas por{" "}
-            <span className="legal-strong">Bandibox SpA</span>, RUT{" "}
+            <span className="legal-strong">BANDIBOX SOLUCIONES INTEGRALES SpA</span>, RUT{" "}
             <span className="legal-strong">77.314.231-9</span>, con domicilio en{" "}
             <span className="legal-strong">Melgarejo 849, Depto 849-G, Coquimbo, Chile</span>.
             Contacto: <a href="mailto:hola@bandibox.cc">hola@bandibox.cc</a> ·{" "}
@@ -28,7 +28,7 @@ export default function CondicionesServicio() {
         <span className="num">02</span>
         <div>
           <h2>Servicios ofrecidos</h2>
-          <p>Bandibox SpA provee a empresas y agencias clientes:</p>
+          <p>BANDIBOX SOLUCIONES INTEGRALES SpA provee a empresas y agencias clientes:</p>
           <ul>
             <li>Automatización de bandejas de entrada de WhatsApp.</li>
             <li>Chatbots para atención al cliente, recordatorios y flujos personalizados.</li>
@@ -42,7 +42,7 @@ export default function CondicionesServicio() {
       <div className="legal-sec">
         <span className="num">03</span>
         <div>
-          <h2>Responsabilidades de Bandibox SpA</h2>
+          <h2>Responsabilidades de BANDIBOX SOLUCIONES INTEGRALES SpA</h2>
           <ul>
             <li>Configurar y operar los flujos técnicos de forma segura y segmentada.</li>
             <li>Mantener la confidencialidad de tokens, credenciales y datos del cliente.</li>
@@ -56,7 +56,7 @@ export default function CondicionesServicio() {
         <span className="num">04</span>
         <div>
           <h2>Limitación de responsabilidad</h2>
-          <p>Bandibox SpA no se hace responsable por:</p>
+          <p>BANDIBOX SOLUCIONES INTEGRALES SpA no se hace responsable por:</p>
           <ul>
             <li>Suspensiones o bloqueos realizados por plataformas de terceros.</li>
             <li>Errores derivados de activos mal configurados por el cliente.</li>
