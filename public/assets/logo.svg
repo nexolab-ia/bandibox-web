@@ -1,0 +1,17 @@
+<svg width="520" height="160" viewBox="0 0 520 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="band" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#EA7A1B"/>
+    </linearGradient>
+  </defs>
+  <!-- logo mark (box with band) -->
+  <g transform="translate(8,4)">
+    <path d="M30 64L74 42L118 64V104L74 126L30 104V64Z" fill="#111318"/>
+    <path d="M30 64L74 42L118 64L74 86L30 64Z" fill="#1C2027"/>
+    <path d="M30 64L74 86L118 64V77L74 99L30 77V64Z" fill="url(#band)"/>
+    <path d="M74 126V86L118 64V104L74 126V126Z" fill="#15181E" opacity="0.55"/>
+  </g>
+  <!-- wordmark -->
+  <text x="140" y="98" font-family="Space Grotesk, system-ui, sans-serif" font-size="58" font-weight="700" letter-spacing="-0.02" fill="#E8EAEE">Bandibox</text>
+</svg>

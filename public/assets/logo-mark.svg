@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bandibox logomark: a box with a band passing through it -->
+  <defs>
+    <linearGradient id="band" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#EA7A1B"/>
+    </linearGradient>
+  </defs>
+  <!-- box body -->
+  <path d="M96 208L256 128L416 208V368L256 448L96 368V208Z" fill="#111318"/>
+  <!-- top face -->
+  <path d="M96 208L256 128L416 208L256 288L96 208Z" fill="#1C2027"/>
+  <!-- band across the box -->
+  <path d="M96 208L256 288L416 208V256L256 336L96 256V208Z" fill="url(#band)"/>
+  <!-- accent front stripe -->
+  <path d="M256 368V288L416 208V368L256 448V368Z" fill="#15181E" opacity="0.55"/>
+</svg>
