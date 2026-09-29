@@ -257,8 +257,9 @@ export default function Home() {
       <div className="foot container">
         <span>© 2026 Bandibox SpA. Todos los derechos reservados.</span>
         <div style={{ display: "flex", gap: 20 }}>
-          <Link href="/privacidad">Privacidad</Link>
-          <Link href="/terminos">Términos</Link>
+          <Link href="/politica-privacidad">Privacidad</Link>
+          <Link href="/condiciones-servicio">Términos</Link>
+          <Link href="/eliminacion-datos">Eliminación de datos</Link>
           <span>Melgarejo 849, Coquimbo · Chile</span>
         </div>
       </div>
